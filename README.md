@@ -20,7 +20,7 @@
 <br>
 
 ## 💡 Tools  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=black"/>   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=black"/>   
 
 <br>   
 <br>
@@ -30,7 +30,7 @@
 
 
 
-<!-- 차후 추가할 라벨들 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphQL&logoColor=black"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=black"/>  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=black"/>   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=black"/> -->
+<!-- 차후 추가할 라벨들 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphQL&logoColor=black"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=black"/>  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=black"/>   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=black"/> -->
 
 
 
