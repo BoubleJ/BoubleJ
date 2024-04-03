@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,100&height=300&section=header&text=!%20BoubleJ's%20Github%20!&fontSize=60&fontColor=000000&descSize=30&desc=FrontEnd%20Developer&fontAlignY=40)
 
-# 😄 About me 😄ㄹㄴㅇㅁㄹ
+# 😄 About me 😄
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoubleJ&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <a href="https://github.com/BoubleJ"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoubleJ&layout=compact&theme=nord&hide_border=true" /></a>
