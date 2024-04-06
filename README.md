@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=black"/>   
 
 <br>   
-<br>
-  
+<br>    
+     
 ## 📞 Contacts
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=black"/>    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=black"/>  
 
