@@ -1,7 +1,4 @@
-# 😄 About me 😄
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoubleJ&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<a href="https://github.com/BoubleJ"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoubleJ&layout=compact&theme=nord&hide_border=true" /></a>
+# 😄 Hello, I'm JaeJung 😄
 <br>
 <br>
 
