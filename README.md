@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- 방문자 수 -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=BoubleJ&style=for-the-badge&color=blue" alt="views"/>
-</p>
-
 <!-- GitHub Stats Card (all-time) -->
 <img src="https://ghstats.dev/api/card?username=BoubleJ&theme=ayu&alltime=true" alt="GitHub Stats"/>
 
