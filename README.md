@@ -1,31 +1,62 @@
-# 😄 Hello, I'm JaeJung 😄
-<br>
-<br>
+<div align="center">
 
-    
-  
-## ⚒ Skills
+<!-- 방문자 수 -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BoubleJ&style=for-the-badge&color=blue" alt="views"/>
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Javascript-FFD700?style=flat&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.JS&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/> 
+<!-- GitHub Stats Card (all-time) -->
+<img src="https://ghstats.dev/api/card?username=BoubleJ&theme=ayu&alltime=true" alt="GitHub Stats"/>
 
-<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=black"/> 
+<!-- Skills -->
+<section>
+  <h3>🚀 Skills</h3>
+  <img src="https://ghstats.dev/api/langs?username=BoubleJ&theme=ayu&max_langs=12" alt="Top Languages"/>
+  <table>
+    <tr align="center">
+      <td><h3>🖥 Main Skills</h3></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      </td>
+    </tr>
+    <tr align="center">
+      <td><h3>🧑‍🎓 Sub Skills</h3></td>
+      <td>
+        <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</section>
 
-<br>
-<br>
+<!-- Activity -->
+<section>
+  <h3>📊 Activity</h3>
+  <table border="0">
+    <tr align="center">
+      <td>
+        <img src="https://ghstats.dev/api/sparkline?username=BoubleJ&days=90&width=700" alt="Activity (90d)"/>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <img src="https://streak-stats.demolab.com?user=BoubleJ&theme=dark&card_width=700" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</section>
 
-## 💡 Tools  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=black"/>   
-
-<br>   
-<br>    
-     
-## 📞 Contacts
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=black"/>  
-
-
-
-<!-- 차후 추가할 라벨들 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphQL&logoColor=black"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=black"/>  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=black"/>   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=black"/>    <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=black"/>    <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=bootstrap&logoColor=black"/>  <img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=black"/>   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styledcomponents&logoColor=black"/>   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=black"/>      <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=Shadcn/ui&logoColor=white"/>     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=black"/>     -->
-
-
-
-
+</div>
