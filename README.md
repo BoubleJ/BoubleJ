@@ -3,6 +3,12 @@
 <!-- GitHub Stats Card (all-time) -->
 <img src="https://ghstats.dev/api/card?username=BoubleJ&theme=ayu&alltime=true" alt="GitHub Stats"/>
 
+<!-- Trophy -->
+<section>
+  <h3>🏆 Trophy</h3>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=BoubleJ&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophy"/>
+</section>
+
 <!-- Skills -->
 <section>
   <h3>🚀 Skills</h3>
